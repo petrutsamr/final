@@ -1,0 +1,113 @@
+* {
+    font-family: "Georgia", sans-serif;
+    color: #2c3e50;
+}
+        
+body {
+    background-color: rgb(176, 196, 222) ;
+}
+
+a { 
+    text-decoration: none;
+}
+
+#table {
+    background-color:Lavender;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin: 20px auto;
+}
+
+#table td {
+    padding: 15px;
+    text-align: center;
+}
+
+#first {
+    background-color:rgb(255, 255, 240) ;
+    border-radius: 10px;
+}
+
+main { 
+    background-image: url(https://igumo.ru/upload/medialibrary/20c/20c9bde4595d58de5b0d67adcdebd5b6.jpg);
+    background-repeat: no-repeat;
+    width: 520px;
+    height: 700px;
+    position: relative;
+}
+
+
+#place {
+position: absolute;
+    top: 75px;
+    left: 120px;
+    font-weight: bold;
+}
+
+#date {
+    position: absolute;
+    top: 160px;
+    right: 320px;
+}
+
+#code {
+    position: absolute;
+    top: 160px;
+    right: 90px;
+}
+
+#surname {
+    position: absolute;
+    top: 410px;
+    left: 230px;
+    font: bold 100% serif;
+}
+
+#name {
+    position: absolute;
+    top: 465px;
+    left: 225px;
+    font: bold 100% serif;
+}
+
+#lastname {
+    position: absolute;
+    top: 493px;
+    left: 220px;
+    font: bold 100% serif;
+}
+
+#sex {
+    position: absolute;
+    top: 520px;
+    left: 200px;
+}
+
+#date2 {
+    position: absolute;
+    top: 520px;
+    left: 300px;
+}
+
+#city {
+    position: absolute;
+    top: 550px;
+    left: 220px;
+}
+
+#photo {
+    position: absolute;
+    top: 430px;
+    left: 30px;
+}
+
+#change {
+    position: absolute;
+    bottom: -40px;
+    left: 200px;
+}
+
+#screen {
+    width: 600px;
+    height: 600px;
+}

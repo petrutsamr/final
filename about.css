@@ -1,0 +1,74 @@
+* {
+    margin: 10;
+    font-family: "Georgia", sans-serif;
+    color: #2c3e50;
+
+}
+        
+body {
+    background-color: rgb(176, 196, 222) ;
+}
+a { 
+    text-decoration: none;
+}
+
+
+#link1 {
+background: white;
+    color: #667eea;
+    padding: 12px 25px;
+    border-radius: 25px;
+    text-decoration: none;
+    
+}
+
+#link2 {
+    background: white;
+    color: #667eea;
+    padding: 12px 25px;
+    border-radius: 25px;
+    text-decoration: none;
+    
+}
+
+#team {
+    background: white;
+    border-radius: 0px;
+    margin: auto;
+    border-collapse: collapse;
+    
+}
+
+#team td {
+    padding: 15px;
+    border: 1px solid #7fa6c0;
+}
+
+#team th {
+    padding: 15px;
+    border: 1px solid #7fa6c0;
+}
+
+#table {
+    background-color:Lavender;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin: 20px auto;
+}
+
+#table td {
+    padding: 15px;
+    text-align: center;
+}
+#first {
+    background-color:rgb(255, 255, 240) ;
+    border-radius: 10px;
+}
+footer {
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+    background-color: Lavender;
+    border-radius: 10px;
+    color: #4a5568;
+}
